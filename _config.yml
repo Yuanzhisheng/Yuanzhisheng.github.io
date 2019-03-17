@@ -6,13 +6,13 @@ email: Yuanzhisheng31@gmail.com
 description: " "
 keyword: "BY, BY Blog, ZHANG Xilin, xilin, 张茜琳 "
 url: "http://Yuanzhisheng.github.io"          # your host, for absolute URL
-baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: ""     #/img/ # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/Yuanzhisheng" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "sunshine!"
+sidebar-avatar:     # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -20,7 +20,7 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 RSS: false
 # weibo_username:     qiubaiying
 github_username:    Yuanzhisheng
-#twitter_username:   qiubaiying
+
 
 
 
@@ -83,7 +83,7 @@ ga_domain: auto               # 默认的是 auto, 这里我是自定义了的�
 
 # Featured Tags
 featured-tags: true                     # 是否使用首页标签
-featured-condition-size: 1              # 相同标签数量大于这个数，才会出现在首页
+featured-condition-size: 0              # 相同标签数量大于这个数，才会出现在首页
 
 
 
