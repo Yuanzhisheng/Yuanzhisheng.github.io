@@ -6,7 +6,7 @@ email: Yuanzhisheng31@gmail.com
 description: " "
 keyword: "BY, BY Blog, ZHANG Xilin, xilin, 张茜琳 "
 url: "http://Yuanzhisheng.github.io"          # your host, for absolute URL
-baseurl: "/blog"     # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: ""     # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/Yuanzhisheng" # you code repository
 
 # Sidebar settings
